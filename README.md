@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">I'm Hendri Muji Waluyo. . . .<br><br>- 🎯 I'm currently focused on mobile development with Flutter.<br>- 📚 I'm currently learning Kotlin and JavaScript.<br>- ⚡ In my free time I play games.</p>
+<p align="left">I'm Hendri Muji Waluyo. . . .<br><br>- 🎯 I'm currently focused on mobile development with Flutter.<br>- 📚 I'm currently learning Kotlin, JavaScript and Go.<br>- ⚡ In my free time I play games.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">💻 Language</h3>
 
 ###
 
@@ -28,6 +28,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<h3 align="left">🛠 Tools</h3>
+
+###
+
+<div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
   <img width="12" />
