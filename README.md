@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Hendri Muji Waluyo. . . .<br><br>- 🎯 I'm currently focused on mobile development with Flutter.<br>- 📚 I'm currently learning Kotlin, JavaScript and Go.<br>- ⚡ In my free time I play games.</p>
+<p align="left">I'm Hendri Muji Waluyo. . . .<br><br>- 🎯 I'm currently focused on mobile development with Flutter.<br>- 📚 I'm currently learning Kotlin.<br>- ⚡ In my free time I play games.</p>
 
 ###
 
